@@ -6,5 +6,9 @@ public class AnotherTestClass {
         System.out.println("Some text");
         System.out.println("Some text");
         System.out.println("Some text");
+        System.out.println("Some text");
+        System.out.println("Some text");
+        System.out.println("Some text");
+        System.out.println("Some text");
     }
 }
