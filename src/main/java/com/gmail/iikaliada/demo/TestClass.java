@@ -6,5 +6,8 @@ public class TestClass {
         System.out.println("Something wrong");
         System.out.println("Something bad");
         System.out.println("Something good");
+        System.out.println("Something good");
+        System.out.println("Something good");
+        System.out.println("Something good");
     }
 }
