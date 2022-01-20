@@ -9,6 +9,8 @@ public class AnotherTestClass {
         System.out.println("Some text");
         System.out.println("Some text");
         System.out.println("Some text");
-        System.out.println("Some text");
+        System.out.println("Bad commit I want to delete");
+        System.out.println("Bad commit I want to delete");
+        System.out.println("Bad commit I want to delete");
     }
 }
