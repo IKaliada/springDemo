@@ -4,5 +4,9 @@ public class TestClass {
 
     public void showSomething() {
         System.out.println("Something wrong");
+        System.out.println("Something wrong");
+        System.out.println("Something wrong");
+        System.out.println("Something wrong");
+        System.out.println("Something wrong");
     }
 }
